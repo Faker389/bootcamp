@@ -2,7 +2,7 @@ function App() {
 
   return (
     <main>
-      <h1 className="">huj</h1>
+      <h1 > ELO </h1>
     </main>
   );
 }
