@@ -14,5 +14,8 @@
   "type": "module",
   "workspaces": [
     "src/projekt_frontend"
-  ]
+  ],
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
 }

@@ -1,14 +1,6 @@
 {
   "canisters": {
-    "projekt_backend": {
-      "candid": "src/projekt_backend/projekt_backend.did",
-      "package": "projekt_backend",
-      "type": "rust"
-    },
     "projekt_frontend": {
-      "dependencies": [
-        "projekt_backend"
-      ],
       "source": [
         "src/projekt_frontend/dist"
       ],
